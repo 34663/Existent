@@ -9,3 +9,7 @@ If you want to make any changes, simply replace the src folder of MCP1.12.2.
 Open ClickGui in `RSHIFT`.  
 The command prefix is `-`.  
 *See the help command for more details on the command.*
+  
+  
+Warning!
+Selling without permission is prohibited. 😡
