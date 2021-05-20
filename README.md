@@ -11,4 +11,4 @@ The command prefix is `-`.
 *See the help command for more details on the command.*  
 
 # Warning!
-Selling without permission is prohibited. 😡
+Unauthorized modification or sale is prohibited.
